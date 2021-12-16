@@ -1,0 +1,38 @@
+li:nth:nth-of-type(1) {
+  font-size: 20pxl;
+  color: blue
+}
+
+li:nth-last-of-type(2) {
+  color: grey;
+}
+
+li:nth-last-of-type(3)
+{font-size: 8px;
+color: green;}
+
+
+li:nth-of-type(4) {
+  color: orange;
+  font-weight: bold;
+  text-align: right;
+
+}
+
+li:nth-of-type(5) {
+  font-family: tahoma;
+  color: pink;
+
+}
+li:nth-of-type(6) {
+  color: purple;
+  text-decoration: underline;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+li:nth-of-type(7) {
+  background-color: yellow;
+  font-weight: bold;
+  font-family: comic sans-serif;
+  line-height: 25px;
+}
